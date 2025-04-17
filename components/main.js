@@ -29,7 +29,7 @@ const Main = () => {
             height={528}
             width={800}
             alt="Lady in stretching pose"
-            src="/images/banner-img.png"
+            src="/images/b.png"
           />
         </div>
       </section>
