@@ -7,7 +7,7 @@ const About = () => {
       <div className={styles.image}>
         <Image
           width={850}
-          height={1500}
+          height={1400}
           src={"/images/about.png"}
           alt={"About UK_Boy_Fitness"}
         />
